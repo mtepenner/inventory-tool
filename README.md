@@ -1,4 +1,4 @@
-# 📦 Postgrad Inventory Management System
+# 📦 Inventory Management System
 
 A lightweight, command-line-based Inventory Management System built in C++. This tool is designed to efficiently track hardware components (specifically structured around Intel Part Numbers), manage stock quantities, log part locations, and maintain detailed metadata such as product categories, owners, and pricing. 
 
