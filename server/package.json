@@ -1,0 +1,20 @@
+{
+  "name": "inventory-server",
+  "version": "1.0.0",
+  "description": "Backend API for Inventory Management System",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
